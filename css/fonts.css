@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Pobeda", sans-serif;
+  font-family: "Pobeda";
   src: local("Pobeda"),
     url(../fonts/Pobeda-Regular_ru.woff2) format("woff2"),
     url(../fonts/Pobeda-Regular_ru.woff) format("woff");
